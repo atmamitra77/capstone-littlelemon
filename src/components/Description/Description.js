@@ -1,5 +1,4 @@
 function Description() {
-  return <section>Description</section>;
+  return <section className="grid-description">Description</section>;
 }
-
 export default Description;

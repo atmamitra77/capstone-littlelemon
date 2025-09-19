@@ -1,5 +1,4 @@
 function Testimonials() {
-  return <section>Testimonials</section>;
+  return <section className="grid-testimonials">Testimonials</section>;
 }
-
 export default Testimonials;
